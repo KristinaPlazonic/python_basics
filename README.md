@@ -67,11 +67,11 @@
 
 ### Resources
 
-- software carpentries (easy)
-- exercism.io   (easy)
-- kaggle kernels (medium)
-- fastai courses (advanced)
-- https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks 
+- software carpentries (easy) [link](https://software-carpentry.org/lessons/)
+- exercism.io   (easy) [link](https://exercism.io/tracks/python)
+- kaggle kernels (medium) [link](https://www.kaggle.com/kernels)
+- fastai courses (advanced) [link](https://www.fast.ai/)
+- a gallery of Jupyter notebooks [link](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
 
 
