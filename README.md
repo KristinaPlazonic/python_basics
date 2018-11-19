@@ -16,6 +16,9 @@
 - main language for deep learning
 - Jupyter notebook and Jupyter lab have become as good as RStudio
 
+![growth of languages](growth_major_languages.png)
+![comparison main languages](table_comparing_languages.png)
+
 ### Tour of Jupyter
 
 - cells - code and markdown
